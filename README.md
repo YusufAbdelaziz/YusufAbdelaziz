@@ -43,10 +43,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code>
   <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"></code>
   <br />
-  <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass"></code>
   <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux"></code>
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></code>
-  <br />
   <code><img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
   <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"></code>
 </p>
