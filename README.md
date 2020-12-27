@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on a flutter app.
+- 👨🏽‍💻 I’m currently working on a React app.
 - 🌱 I’m currently learning JS, React and Redux.
 - 👯 I’m looking to collaborate on React projects  🤝.
 - 💬 Ask me about anything, I am happy to help.
