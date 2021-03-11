@@ -34,17 +34,17 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
-  <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
+  <code><img width=30 height= 30 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"></code>
   <br />
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs"></code>
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code>
-  <code><img width=40 height= 40 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"></code>
   <br />
-  <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux"></code>
-  <code><img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
-  <code><img width=40 height= 40 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"></code>
+  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="redux"></code>
+  <code><img width=4% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
+  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"></code>
 </p>
 
 <!-- Your hits or visitors
