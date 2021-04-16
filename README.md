@@ -15,8 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently trying to finish JS 30 days challenge and studying Odin curriculum.
-- 🌱 I’m currently learning JS, React and Redux.
-- 👯 I’m looking to collaborate on React projects  🤝.
+- 👯 I’m looking to collaborate on React or Flutter projects  🤝.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: yussefislamanwer@gmail.com.
 
@@ -28,7 +27,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <br>
   <a href="https://github.com/YusufAbdelaziz/">
-    <img width="55%" align="right" alt="Yusuf's github stats" src="https://github-readme-stats.vercel.app/api?username=YusufAbdelaziz&show_icons=true&count_private=true" />
+    <img width="55%" align="right" alt="Yusuf's github stats" src="https://github-readme-stats.vercel.app/api?username=YusufAbdelaziz&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
