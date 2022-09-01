@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-abdelaziz/)
 &nbsp;
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yusufabdelaziz/)
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
