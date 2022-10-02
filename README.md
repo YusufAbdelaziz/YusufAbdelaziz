@@ -33,17 +33,26 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
-  <code><img width=30 height= 30 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"></code>
+  <code><img width=30 height= 30 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"></code>
+  
   <br />
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"></code>
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS"></code>
+  
+  
   <br />
-  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="redux"></code>
+  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="Redux"></code>
   <code><img width=4% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
-  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"></code>
+  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></code>
+  
+  
+  
 </p>
 
 <!-- Your hits or visitors
