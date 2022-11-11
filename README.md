@@ -13,9 +13,9 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- - 👯 I’m looking to collaborate on React or Flutter projects  🤝. -->
 
 - 👨🏽‍💻 I’m currently learning about Interpreters & Compilers as well as algorithms & DS.
-<!-- - 👯 I’m looking to collaborate on React or Flutter projects  🤝. -->
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: yussefislamanwer@gmail.com.
 
