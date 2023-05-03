@@ -44,9 +44,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></code>
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS"></code>
   
-  
+
   <br />
-  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="Redux"></code>
+  <code><img width=30 height= 30 src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="Redux"></code>
   <code><img width=4% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
   <code><img width=30 height= 30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3"></code>
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></code>
