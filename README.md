@@ -28,7 +28,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   
   <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://devicon.dev/
   -->
   ## Skills
   #### Languages
