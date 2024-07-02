@@ -67,7 +67,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
  
   #### RDBMS
   
+  <code><img width=50 height= 30 src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"></code>
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"></code>
+
+  
   
 </p>
 
