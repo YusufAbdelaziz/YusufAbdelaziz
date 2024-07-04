@@ -49,10 +49,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code>
   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS"></code>
-  <code><img width=30 height= 30 src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="Redux"></code>
+  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"></code>
+ <!--   <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"></code> -->
+ <!--   <code><img width=30 height= 30 src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="Redux"></code> -->
   
  <!-- <code><img width=30 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"></code> -->
   #### Developer Tools
