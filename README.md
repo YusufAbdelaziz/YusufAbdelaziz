@@ -62,7 +62,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width=30 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ Idea"/></code>
   <code><img width=30 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"/></code>
   <code><img width=30 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/></code>
-  <code><img width=40 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/></code>
+  <!-- <code><img width=40 height= 30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/></code> -->
   <code><img width=50 height= 30 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
  
   #### RDBMS
